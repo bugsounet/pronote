@@ -2,6 +2,7 @@ const http = require('../http');
 
 const URLS = {
     'ac-besancon': 'cas.eclat-bfc.fr',
+    'ac-besancon2': 'cas.eclat-bfc.fr',
     'ac-bordeaux': 'mon.lyceeconnecte.fr',
     'ac-bordeaux2': 'ent2d.ac-bordeaux.fr',
     'ac-caen': 'fip.itslearning.com',
