@@ -1,6 +1,6 @@
 {
     "name": "@bugsounet/pronote-api",
-    "version": "1.0.16",
+    "version": "1.0.17",
     "description": "Personal Pronote api for MMM-Pronote",
     "main": "index.js",
     "keywords": [
