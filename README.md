@@ -35,6 +35,7 @@ Sinon, l'API propose de se connecter à Pronote avec des comptes des académies 
   
     - Académie d'Orleans-Tours (CAS : ac-orleans-tours, URL : "ent.netocentre.fr")
     - Académie de Besançon (CAS : ac-besancon, URL : "cas.eclat-bfc.fr")
+    - Académie de Besançon 2 (CAS : ac-besancon, URL : "cas.eclat-bfc.fr") mais connexion avec educonnect
     - Académie de Bordeaux (CAS : ac-bordeaux, URL : "mon.lyceeconnecte.fr")
     - Académie de Bordeaux 2 (CAS : ac-bordeaux2, URL : "ent2d.ac-bordeaux.fr")
     - Académie de Caen (CAS : ac-caen, URL : "fip.itslearning.com")
