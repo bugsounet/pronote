@@ -50,6 +50,7 @@ Sinon, l'API propose de se connecter à Pronote avec des comptes des académies 
     - Académie de Lyon (CAS : ac-lyon, URL : "cas.ent.auvergnerhonealpes.fr)
     - Académie de Marseille (CAS : atrium-sud, URL : "atrium-sud.fr")
     - Académie de Montpellier (CAS : ac-montpellier, URL : "cas.mon-ent-occitanie.fr")
+    - (2022-2023) Académie de Montpellier 2 (CAS : ac-montpellier, URL : "cas.mon-ent-occitanie.fr") mais connexion avec educonnect 
     - Académie de Nancy-Metz (CAS : ac-nancy-metz, URL : "cas.monbureaunumerique.fr")
     - Académie de Nantes (CAS : ac-nantes, URL : "cas3.e-lyco.fr")
     - Académie de Poitiers (CAS : ac-poitiers, URL : "mon.lyceeconnecte.fr")

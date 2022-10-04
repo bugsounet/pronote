@@ -15,6 +15,7 @@ const URLS = {
     'ac-limoges': 'mon.lyceeconnecte.fr',
     'ac-lyon': 'cas.ent.auvergnerhonealpes.fr',
     'ac-montpellier': 'cas.mon-ent-occitanie.fr',
+    'ac-montpellier2': 'cas.mon-ent-occitanie.fr',
     'ac-nancy-metz': 'cas.monbureaunumerique.fr',
     'ac-nantes': 'cas3.e-lyco.fr',
     'ac-orleans-tours': 'ent.netocentre.fr',
